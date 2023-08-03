@@ -18,3 +18,4 @@
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo 'src-git liuran001 https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
 #echo 'src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' >>feeds.conf.default
+sed -i '1i src-git haibo https://github.com/haiibo/openwrt-packages' feeds.conf.default
