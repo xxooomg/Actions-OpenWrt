@@ -9,7 +9,7 @@
 # Description: Source code update checker
 #
 
-name: Update Checker-lean
+name: Update Checker-AX1800
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/openwrt-gl-ax1800
