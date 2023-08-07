@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build wrt32x
+name: Build wrt32x-lean
 
 on:
   repository_dispatch:
