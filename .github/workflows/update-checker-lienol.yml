@@ -12,7 +12,7 @@
 name: Update Checker-lienol
 
 env:
-  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_URL: https://github.com/xxooomg/openwrt-Lienol
   REPO_BRANCH: master
 
 on:
