@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build MR7350-ax1800
+name: Build mr7350-ax1800-test
 
 on:
   repository_dispatch:
